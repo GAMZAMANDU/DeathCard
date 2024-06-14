@@ -3,36 +3,51 @@
 
 # 안내메시지
 딕셔너리에 유저이름과 유저아이디, 유저덱제출을 자동으로 하는 기능이 만들어지지 않아 수동 기입해야합니다
-![image](https://github.com/GAMZAMANDU/DeathCard/assets/157395300/e0147c33-84d7-4b7d-b767-1390579a0310)
-![image](https://github.com/GAMZAMANDU/DeathCard/assets/157395300/9d8a3cab-066e-4b6c-84ca-4e88a9f59bba)
+<div style="width:70%;">
+  <img src="https://github.com/GAMZAMANDU/DeathCard/assets/157395300/e0147c33-84d7-4b7d-b767-1390579a0310">
+</div>
+<div style="width:70%;">
+  <img src="https://github.com/GAMZAMANDU/DeathCard/assets/157395300/9d8a3cab-066e-4b6c-84ca-4e88a9f59bba">
+</div>
 
-봇을 사용하시기 전 
+마지막으로 봇토큰을 넣어주세요 
 
 # 진행방법
 ### `ㅎ 게임시작`으로 게임을 시작합니다
-![image](https://github.com/GAMZAMANDU/DeathCard/assets/157395300/2847af3f-62ed-4f4a-a828-8205ee9db4b4)
-
+<div style="width:70%;">
+  <img src="https://github.com/GAMZAMANDU/DeathCard/assets/157395300/2847af3f-62ed-4f4a-a828-8205ee9db4b4">
+</div>
 
 ### 순서대로 사용자에게 카드제출을 요청하는 메시지가 DM으로 전송됩니다
-![image](https://github.com/GAMZAMANDU/DeathCard/assets/157395300/4f57b316-bf37-4d92-aa79-1aefb904cd19)
+<div style="width:70%;">
+  <img src="https://github.com/GAMZAMANDU/DeathCard/assets/157395300/4f57b316-bf37-4d92-aa79-1aefb904cd19">
+</div>
 
 아래 설렉트바를 누르면 제출할 카드를 선택할 수 있습니다
 - 제출조건에 부합하지 않는 카드는 노출되지 않습니다
 - 카드제출 시간은 60초입니다, 시간내에 제출하지 않는다면 랜덤한 카드가 제출됩니다.
-![image](https://github.com/GAMZAMANDU/DeathCard/assets/157395300/510b7b6d-4e26-4631-bedf-a49f0ef662e9)
-
+<div style="width:70%;">
+  <img src="https://github.com/GAMZAMANDU/DeathCard/assets/157395300/510b7b6d-4e26-4631-bedf-a49f0ef662e9">
+</div>
 
 ### 게임진행 상황이 게임을 시작한 채널에 전송됩니다
-![image](https://github.com/GAMZAMANDU/DeathCard/assets/157395300/e51662c3-bbc4-40f1-8884-899bcd609d53)
+<div style="width:70%;">
+  <img src="https://github.com/GAMZAMANDU/DeathCard/assets/157395300/e51662c3-bbc4-40f1-8884-899bcd609d53">
+</div>
 
 ### 게임이 끝나면 종료됩니다
-![image](https://github.com/GAMZAMANDU/DeathCard/assets/157395300/e42d0a24-e3de-4210-8f9b-b4b0943de092)
+<div style="width:70%;">
+  <img src="https://github.com/GAMZAMANDU/DeathCard/assets/157395300/e42d0a24-e3de-4210-8f9b-b4b0943de092">
+</div>
 
 # 추가적인 봇 명령어
 1. `ㅎ 진행상황` ㅡ 게임의 모든 카드를 보여줍니다 (DM으로 전송됨)
-![image](https://github.com/GAMZAMANDU/DeathCard/assets/157395300/ed9cf546-2a21-453e-a9c7-0791ef79e1c5)
+<div style="width:70%;">
+  <img src="https://github.com/GAMZAMANDU/DeathCard/assets/157395300/ed9cf546-2a21-453e-a9c7-0791ef79e1c5">
+</div>
 
 2. `ㅎ 게임설명`
+
 - 간단한 게임 설명메시지가 전송됩니다
 
 # 게임규칙
