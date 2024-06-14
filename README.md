@@ -3,6 +3,8 @@
 
 # 안내메시지
 딕셔너리에 유저이름과 유저아이디, 유저덱제출을 자동으로 하는 기능이 만들어지지 않아 수동 기입해야합니다
+![image](https://github.com/GAMZAMANDU/DeathCard/assets/157395300/e0147c33-84d7-4b7d-b767-1390579a0310)
+![image](https://github.com/GAMZAMANDU/DeathCard/assets/157395300/9d8a3cab-066e-4b6c-84ca-4e88a9f59bba)
 
 봇을 사용하시기 전 
 
