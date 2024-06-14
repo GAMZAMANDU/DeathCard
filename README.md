@@ -1,12 +1,13 @@
 # DeathCard
-2020년 저희 서버의 이벤트제작자셨던 dtwz_님의 게임아이디어를 디스코드봇으로 구현했습니다
+2020년 저희 서버의 이벤트제작자셨던 dtwz_님의 게임아이디어를 
+자동진행하기 위해 디스코드봇으로 구현했습니다
+
 
 # 안내메시지
-딕셔너리에 유저이름과 유저아이디, 유저덱제출을 자동으로 하는 기능이 만들어지지 않아 수동 기입해야합니다
+딕셔너리에 유저이름과 유저아이디, 유저덱을 자동으로 하는 기능이 만들어지지 않아 수동 기입해야합니다
 
-<img src="https://github.com/GAMZAMANDU/DeathCard/assets/157395300/e0147c33-84d7-4b7d-b767-1390579a0310" width="30%">
-<br>
-<img src="https://github.com/GAMZAMANDU/DeathCard/assets/157395300/9d8a3cab-066e-4b6c-84ca-4e88a9f59bba" width="30%">
+<img src="https://github.com/GAMZAMANDU/DeathCard/assets/157395300/e0147c33-84d7-4b7d-b767-1390579a0310" width="40%">
+<img src="https://github.com/GAMZAMANDU/DeathCard/assets/157395300/9d8a3cab-066e-4b6c-84ca-4e88a9f59bba" width="60%">
 
 마지막으로 봇토큰을 넣어주세요 
 
